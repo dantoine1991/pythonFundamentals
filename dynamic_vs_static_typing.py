@@ -3,7 +3,7 @@
 #to make it make sense, in Java, you would need to declare the type of data that will be stored in a variable
 
 #Here is setting a variable in a statically typed language (java, C++)
-int score 
+#int score 
 
 #in python, we don't need to do that, we simply assign the type value we want to assign the variable
 #which is then "tranlated" in the background as to what the "data type" of that variable is

@@ -6,7 +6,7 @@ Pip = "cat"
 #Variable assigned to an interger (whole number)
 Age = 9
 
-#Variable assigned to a Boolean
+#Variable assigned to a Boolean!
 Chill = True
 
 #Variable assigned to another variable

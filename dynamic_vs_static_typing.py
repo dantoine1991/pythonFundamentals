@@ -20,6 +20,6 @@ print(type(name))
 #here is one last data type just to help it make sense
 #here is a floating int data type (variable with numbers after the decimal point)
 #For my case as a network engineer, i can only image how hard it would be to declare the data type each time 
-#i wanted to write a description for an interace, for an IP address, etc
+#i wanted to write a description for an interace, for an IP address, etc!
 pi = 3.14
 print(type(pi))

@@ -1,5 +1,4 @@
 #Numbers and Math Operators session
-
 #python numbers: intergers, floats and complex
 
 #Arithmic operators - Used to perform common math operations

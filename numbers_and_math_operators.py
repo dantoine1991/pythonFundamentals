@@ -32,7 +32,7 @@ print(exponetiationEx)
 modulusEx = 15 % 3
 print(modulusEx)
 
-#Assigment Operators
+#Assigment Operators - used to change the value of a variable using an arithimitic operator and "=" sign
 #-------------------------
 
 #simple assignment = "="
